@@ -1,0 +1,12 @@
+{
+  "name": "TennisForm AI",
+  "description": "تطبيق مدعوم بالذكاء الاصطناعي لتحليل حركات لاعبي التنس وتقديم نصائح احترافية لتحسين الأداء.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered motion analysis",
+    "Video stroke feedback",
+    "Personalized coaching tips"
+  ]
+}
